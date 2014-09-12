@@ -1,0 +1,3 @@
+include README.txt
+recursive-include muecke/templates *
+recursive-include muecke/locale *
